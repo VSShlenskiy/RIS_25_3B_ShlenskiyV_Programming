@@ -54,3 +54,5 @@
 <https://github.com/VSShlenskiy/>
 
 R (`.deb`)
+
+![МАИ](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/mai.jpg)
