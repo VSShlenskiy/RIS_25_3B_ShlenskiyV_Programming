@@ -34,4 +34,4 @@
 
 [Я](https://github.com/VSShlenskiy)
 
-[хз](# "love" history)
+[хз](#-love-history)
