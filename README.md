@@ -37,3 +37,5 @@
 [хз](#love-history)
 
 <https://github.com/VSShlenskiy/>
+
+R (`.deb`)
