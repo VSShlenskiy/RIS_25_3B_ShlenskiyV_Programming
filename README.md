@@ -4,7 +4,7 @@
 - sem1
 - sem2
 - .gitignore
-- README.md
+- README(`.md`)
 
 ### sem1
   - [] lab1
