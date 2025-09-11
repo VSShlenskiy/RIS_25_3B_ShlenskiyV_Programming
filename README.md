@@ -1,3 +1,23 @@
+> [!NOTE]
+
+> малополезно
+
+> [!TIP]
+
+> Полезно
+
+> [!IMPORTANT]
+
+> Важно
+
+> [!WARNING]
+
+> Предупреждение
+
+> [!CAUTION]
+
+> Осторожно
+
 # "love" history
 ## "love" history
 ### "love" history
