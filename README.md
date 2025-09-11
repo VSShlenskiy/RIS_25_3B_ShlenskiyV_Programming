@@ -1,5 +1,5 @@
 # Shlenskiy Vitaliy Stanislavovich
-## RIS-25-3B
+## RIS-25-3B PSTU
 
 - sem1
 - sem2
@@ -15,3 +15,4 @@
   - [] lab1
   - [] lab2
   - [] lab3
+
