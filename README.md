@@ -35,3 +35,5 @@
 [Я](https://github.com/VSShlenskiy)
 
 [хз](#love-history)
+
+<https://github.com/VSShlenskiy/>
