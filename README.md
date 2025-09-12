@@ -7,12 +7,12 @@
 - README(`.md`)
 
 ### sem1
-  - [] lab1
-  - [] lab2
-  - [] lab3
+  - [] [lab1](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab1)
+  - [] [lab2](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab2)
+  - [] [lab3](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab3)
 
 ### sem2
-  - [] lab1
-  - [] lab2
-  - [] lab3
+  - [] [lab1](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab1)
+  - [] [lab2](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab2)
+  - [] [lab3](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab3)
 
