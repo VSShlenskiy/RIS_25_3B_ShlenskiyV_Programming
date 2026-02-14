@@ -1,0 +1,17 @@
+﻿  laba1.cpp
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(43,23): warning C4244: инициализация: преобразование "_Rep" в "long double", возможна потеря данных
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(43,23): warning C4244:         with
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(43,23): warning C4244:         [
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(43,23): warning C4244:             _Rep=__int64
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(43,23): warning C4244:         ]
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(86,23): warning C4244: инициализация: преобразование "_Rep" в "long double", возможна потеря данных
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(86,23): warning C4244:         with
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(86,23): warning C4244:         [
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(86,23): warning C4244:             _Rep=__int64
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(86,23): warning C4244:         ]
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(102,23): warning C4244: инициализация: преобразование "_Rep" в "long double", возможна потеря данных
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(102,23): warning C4244:         with
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(102,23): warning C4244:         [
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(102,23): warning C4244:             _Rep=__int64
+C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\laba1.cpp(102,23): warning C4244:         ]
+  laba1.vcxproj -> C:\Users\slens\OneDrive\Рабочий стол\c++\laba1\x64\Debug\laba1.exe

@@ -7,12 +7,10 @@
 - README(`.md`)
 
 ### sem1
-  - [] [lab1](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab1)
-  - [] [lab2](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab2)
-  - [] [lab3](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/lab3)
+  - [x] [1 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem1/1 lab)
 
 ### sem2
-  - [] [lab1](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab1)
-  - [] [lab2](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab2)
-  - [] [lab3](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/lab3)
+  - [x] [4 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/4 laba)
+  - [x] [5 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/5 laba)
+  - [x] [10 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/10 laba)
 
