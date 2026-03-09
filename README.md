@@ -19,3 +19,4 @@
   - [x] [8 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/8%20lab)
   - [x] [9 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/9%20lab)
   - [x] [10 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/10%20lab)
+  - [x] [11 lab](https://github.com/VSShlenskiy/RIS_25_3B_ShlenskiyV_Programming/tree/main/sem2/11%20lab)
