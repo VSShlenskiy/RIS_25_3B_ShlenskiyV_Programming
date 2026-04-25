@@ -1,0 +1,3 @@
+﻿  Class 3 laba.cpp
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\3 lab\Class 3 laba\Class 3 laba.cpp(74,25): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  Class 3 laba.vcxproj -> D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\3 lab\Class 3 laba\x64\Debug\Class 3 laba.exe

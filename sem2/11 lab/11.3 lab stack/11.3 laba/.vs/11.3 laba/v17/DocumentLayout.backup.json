@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\11 lab\\11.3 lab stack\\11.3 laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D06011-183C-429D-835A-5F6747B4834C}|11.3 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\11 lab\\11.3 lab stack\\11.3 laba\\11.3 laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19D06011-183C-429D-835A-5F6747B4834C}|11.3 laba.vcxproj|solutionrelative:11.3 laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11.3 laba.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\11 lab\\11.3 lab stack\\11.3 laba\\11.3 laba.cpp",
+              "RelativeDocumentMoniker": "11.3 laba.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\11 lab\\11.3 lab stack\\11.3 laba\\11.3 laba.cpp",
+              "RelativeToolTip": "11.3 laba.cpp",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAgwBABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-28T09:13:52.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

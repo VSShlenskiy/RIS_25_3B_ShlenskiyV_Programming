@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\4 lab\\Class 4 laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA211A3-75F1-4B5F-AC8A-0471CC7CA631}|Class 4 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\4 lab\\Class 4 laba\\Class 4 laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EA211A3-75F1-4B5F-AC8A-0471CC7CA631}|Class 4 laba.vcxproj|solutionrelative:Class 4 laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 571,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class 4 laba.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\4 lab\\Class 4 laba\\Class 4 laba.cpp",
+              "RelativeDocumentMoniker": "Class 4 laba.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\4 lab\\Class 4 laba\\Class 4 laba.cpp",
+              "RelativeToolTip": "Class 4 laba.cpp",
+              "ViewState": "AgIAAAABAAAAAAAAAAAUwBEBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T11:54:58.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 33,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

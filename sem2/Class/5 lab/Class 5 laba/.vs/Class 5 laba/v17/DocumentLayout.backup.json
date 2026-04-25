@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Triad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Triad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B7CADEE-CF71-4170-98E0-E84768A279E0}|Class 5 laba.vcxproj|solutionrelative:Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA0wAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T08:37:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.cpp",
+              "RelativeDocumentMoniker": "Vector.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.cpp",
+              "RelativeToolTip": "Vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T08:36:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.cpp",
+              "RelativeDocumentMoniker": "Time.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.cpp",
+              "RelativeToolTip": "Time.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T08:36:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.h",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.h",
+              "RelativeDocumentMoniker": "Time.h",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Time.h",
+              "RelativeToolTip": "Time.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T08:35:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triad.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.cpp",
+              "RelativeDocumentMoniker": "Triad.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.cpp",
+              "RelativeToolTip": "Triad.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T08:35:38.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triad.h",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.h",
+              "RelativeDocumentMoniker": "Triad.h",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Triad.h",
+              "RelativeToolTip": "Triad.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T08:35:17.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Object.h",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Object.h",
+              "RelativeDocumentMoniker": "Object.h",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Object.h",
+              "RelativeToolTip": "Object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T08:34:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector.h",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.h",
+              "RelativeDocumentMoniker": "Vector.h",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\5 lab\\Class 5 laba\\Vector.h",
+              "RelativeToolTip": "Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T15:23:03.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
