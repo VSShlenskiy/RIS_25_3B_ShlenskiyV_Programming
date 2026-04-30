@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  zadacha2.cpp
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\13 lab\Class 13 laba\Zadacha2\zadacha2.cpp(73,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Zadacha2.vcxproj -> D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\13 lab\Class 13 laba\Zadacha2\x64\Debug\Zadacha2.exe

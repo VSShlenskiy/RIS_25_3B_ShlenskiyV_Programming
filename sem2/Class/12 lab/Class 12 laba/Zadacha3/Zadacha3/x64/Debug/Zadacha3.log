@@ -1,0 +1,44 @@
+﻿  zadacha3.cpp
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(39,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(39,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\zadacha3.cpp(13,22):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Money>"
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(32,1):
+          во время компиляции функции-члена класс шаблон "Container<Money>::Container(int)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\zadacha3.cpp(13,23):
+              см. первую ссылку на "Container<Money>::Container" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(75,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(75,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(72,1):
+          во время компиляции функции-члена класс шаблон "void Container<Money>::AddMax(void)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\zadacha3.cpp(19,13):
+              см. первую ссылку на "Container<Money>::AddMax" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(91,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(91,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(80,1):
+          во время компиляции функции-члена класс шаблон "void Container<Money>::DelByKey(T)"
+          with
+          [
+              T=Money
+          ]
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\zadacha3.cpp(25,15):
+              см. первую ссылку на "Container<Money>::DelByKey" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(121,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(121,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\Container.h(111,1):
+          во время компиляции функции-члена класс шаблон "void Container<Money>::AddSrednee(void)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\zadacha3.cpp(30,17):
+              см. первую ссылку на "Container<Money>::AddSrednee" в "main"
+  
+  Zadacha3.vcxproj -> D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\12 lab\Class 12 laba\Zadacha3\x64\Debug\Zadacha3.exe

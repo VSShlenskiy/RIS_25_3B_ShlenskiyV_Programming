@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\10 lab\Class 10 laba\main.cpp(13,12): warning C4101: fractionalNumber: неиспользованная локальная переменная
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\10 lab\Class 10 laba\main.cpp(12,9): warning C4101: nom: неиспользованная локальная переменная
+  Money.cpp
+  Создание кода...
+  Class 10 laba.vcxproj -> D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\10 lab\Class 10 laba\x64\Debug\Class 10 laba.exe

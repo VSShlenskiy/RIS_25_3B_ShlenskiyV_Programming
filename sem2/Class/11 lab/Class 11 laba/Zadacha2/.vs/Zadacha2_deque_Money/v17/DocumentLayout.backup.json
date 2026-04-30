@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|solutionrelative:zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|solutionrelative:Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E03EDE-E418-4241-9ECB-7CDA7AA8B2A5}|Zadacha2_deque_Money.vcxproj|solutionrelative:Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadacha2.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\zadacha2.cpp",
+              "RelativeDocumentMoniker": "zadacha2.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\zadacha2.cpp",
+              "RelativeToolTip": "zadacha2.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T10:56:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Money.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.cpp",
+              "RelativeDocumentMoniker": "Money.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.cpp",
+              "RelativeToolTip": "Money.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T10:56:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Money.h",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.h",
+              "RelativeDocumentMoniker": "Money.h",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\11 lab\\Class 11 laba\\Zadacha2_deque_Money\\Money.h",
+              "RelativeToolTip": "Money.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T10:56:03.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

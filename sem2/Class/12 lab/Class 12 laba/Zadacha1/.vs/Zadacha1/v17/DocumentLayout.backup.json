@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\12 lab\\Class 12 laba\\Zadacha1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6629494A-CBE6-4099-8BA0-98DD65EAD4F2}|Zadacha1.vcxproj|D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\12 lab\\Class 12 laba\\Zadacha1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629494A-CBE6-4099-8BA0-98DD65EAD4F2}|Zadacha1.vcxproj|solutionrelative:zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadacha1.cpp",
+              "DocumentMoniker": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\12 lab\\Class 12 laba\\Zadacha1\\zadacha1.cpp",
+              "RelativeDocumentMoniker": "zadacha1.cpp",
+              "ToolTip": "D:\\repositories\\RIS_25_3B_ShlenskiyV_Programming\\sem2\\Class\\12 lab\\Class 12 laba\\Zadacha1\\zadacha1.cpp",
+              "RelativeToolTip": "zadacha1.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T11:18:13.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

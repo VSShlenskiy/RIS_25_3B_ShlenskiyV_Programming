@@ -1,0 +1,61 @@
+﻿  Money.cpp
+  zadacha5.cpp
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(59,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(59,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(8,24):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "StackVector<Money>"
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(52,1):
+          во время компиляции функции-члена класс шаблон "StackVector<Money>::StackVector(int)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(8,26):
+              см. первую ссылку на "StackVector<Money>::StackVector" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(69,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(69,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(67,1):
+          во время компиляции функции-члена класс шаблон "void StackVector<Money>::Print(void)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(10,13):
+              см. первую ссылку на "StackVector<Money>::Print" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(91,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(91,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(86,1):
+          во время компиляции функции-члена класс шаблон "void StackVector<Money>::AddMaxToEnd(void)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(13,19):
+              см. первую ссылку на "StackVector<Money>::AddMaxToEnd" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(113,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(113,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(96,1):
+          во время компиляции функции-члена класс шаблон "void StackVector<Money>::DelByKey(T)"
+          with
+          [
+              T=Money
+          ]
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(19,16):
+              см. первую ссылку на "StackVector<Money>::DelByKey" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(115,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(138,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+      D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(138,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(130,1):
+          во время компиляции функции-члена класс шаблон "void StackVector<Money>::AddSredneeToAll(void)"
+              D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\zadacha5.cpp(24,23):
+              см. первую ссылку на "StackVector<Money>::AddSredneeToAll" в "main"
+  
+D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\StackVector.h(140,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5.cpp")
+  
+  Создание кода...
+  Zadacha5.vcxproj -> D:\repositories\RIS_25_3B_ShlenskiyV_Programming\sem2\Class\11 lab\Class 11 laba\Zadacha5\x64\Debug\Zadacha5.exe
